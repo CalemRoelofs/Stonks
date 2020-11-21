@@ -1,1 +1,1 @@
-"# Simple stock ticker to learn Go and Vue with" 
+# Simple stock ticker to learn Go and Vue with
